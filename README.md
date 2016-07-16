@@ -1,0 +1,2 @@
+# kmedoids
+Clustering is the process of grouping objects together that resemble each other. K-means is known to be sensitive to outliers and hence this algorithm that uses representative objects are used instead of centroids. The algorithm is explained in great detal in this paper : https://www.researchgate.net/publication/220215167_A_simple_and_fast_algorithm_for_K-medoids_clustering#pf6 This repository is a python implementation of the same.
